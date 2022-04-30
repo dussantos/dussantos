@@ -1,7 +1,7 @@
 ## Hello!
 **I'm Anderson Sena** :man_technologist: :brazil: </br>
 
-:mortar_board: Current M.Sc Student in Artificial intelligence for financial market.
+:mortar_board: Current M.Sc Student in machine learning for financial market.
 </br>
 <div align="center">
   <a href="https://github.com/dussantos">
